@@ -24,6 +24,7 @@ Some of the languages I work with include: **C++, C, Python, JavaScript**, and m
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+
 ## 📫 Contact Me
 
 Feel free to reach out to me through any of these platforms:
@@ -32,8 +33,15 @@ Feel free to reach out to me through any of these platforms:
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](https://aadityakarn922.github.io/_Portfolio/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/aadi.tya.5496)
 
+ 🔥 GitHub Streak
+
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=aadityakarn&color=green&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aadityakarn922&color=green&style=flat-square" />
+</p>
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=aadityakarn922&color=green&style=flat-square" />
 </p>
 
 #Thannks for Visiting My Profile
