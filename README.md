@@ -25,7 +25,10 @@ Some of the languages I work with include: **C++, C, Python, JavaScript**, and m
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
  🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=aadityakarn922&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityakarn922&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
 
 
 
