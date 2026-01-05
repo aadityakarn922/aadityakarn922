@@ -24,6 +24,8 @@ Some of the languages I work with include: **C++, C, Python, JavaScript**, and m
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+ 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=aadityakarn922&theme=tokyonight&hide_border=true)
 
 
