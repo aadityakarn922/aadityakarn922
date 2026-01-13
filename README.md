@@ -47,6 +47,13 @@ Feel free to reach out to me through any of these platforms:
   <img src="https://komarev.com/ghpvc/?username=aadityakarn922&color=green&style=flat-square" />
 </p>
 
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=aadityakarn922)
+
+
 #Thannks for Visiting My Profile
 
 
