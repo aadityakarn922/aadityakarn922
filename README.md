@@ -47,6 +47,13 @@ Feel free to reach out to me through any of these platforms:
   <img src="https://komarev.com/ghpvc/?username=aadityakarn922&color=green&style=flat-square" />
 </p>
 
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityakarn922&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakarn922&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+
 
 
 ## 🔥 GitHub Streak
