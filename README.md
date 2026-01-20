@@ -43,9 +43,6 @@ Feel free to reach out to me through any of these platforms:
 
 
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=aadityakarn922&color=green&style=flat-square" />
-</p>
 
 📊 GitHub Stats
 <p align="center">
