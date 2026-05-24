@@ -1,5 +1,5 @@
 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakarn922&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakarn922&layout=compact&theme=github_dark)
 
 
 
